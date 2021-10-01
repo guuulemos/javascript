@@ -1,2 +1,2 @@
-# javascript
-Repositório criado para estudar javascript
+# JavaScript
+Material para estudar **_JavaScript_** :monocle_face:
